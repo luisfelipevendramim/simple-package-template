@@ -1,27 +1,25 @@
-# package_name
+# first_package
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package first_package is used to complete a DIO platform design challenge.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install first_package
 
 ```bash
-pip install package_name
+pip install first_package
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from first_package import modulo1
+modulo1.my_function()
 ```
 
 ## Author
-My_name
+Luis_Felipe_Vendramim
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
